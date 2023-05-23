@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Cooding\C#\ExpeditionP\ExpeditionP\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Expedition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Hideout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Log.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SecondaryForms\Debug\Form_DamageDebug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SecondaryForms\Debug\Form_DebugTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SecondaryForms\Expedition\Form_ExpeditionResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SecondaryForms\Expedition\Form_ItemPick.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SecondaryForms\Expedition\Form_ReplaceItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SecondaryForms\Expedition\Form_RestPick.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Form1.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Form_Expedition.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Form_Hideout.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Form_Log.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SecondaryForms\Debug\Form_DamageDebug.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SecondaryForms\Debug\Form_DebugTable.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SecondaryForms\Expedition\Form_ItemPick.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SecondaryForms\Expedition\Form_ReplaceItem.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SecondaryForms\Expedition\Form_RestPick.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
